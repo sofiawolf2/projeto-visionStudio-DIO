@@ -1,0 +1,19 @@
+
+A group of people taking a selfie
+
+JSON:
+
+{
+  "apim-request-id": "f10c930e-725a-486d-aa45-c296979630f2",
+  "content-length": "161",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of people taking a selfie",
+    "confidence": 0.9553865194320679
+  },
+  "metadata": {
+    "width": 1200,
+    "height": 799
+  }
+}
